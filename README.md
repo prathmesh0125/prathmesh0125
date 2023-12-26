@@ -1,15 +1,14 @@
-<h1 align="center">Hi ??, I'm Prathmesh Bidve</h1>
+<h1 align="center">Hi 👋, I'm Prathmesh Bidve</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
-<img style="align-items: flex-end;" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathmesh0125" alt="prathmesh0125" /></a> </p>
 
+<img  align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding" width="400px">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- ?? I�m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
-- ?? Ask me about **DSA,Javascript,Web development**
+- 💬 Ask me about **DSA,Javascript,Web development**
 
-- ?? How to reach me **bidveprathmesh590@gmail.com**
+- 📫 How to reach me **bidveprathmesh590@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
