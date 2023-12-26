@@ -1,7 +1,7 @@
 # 💫 About Me:
-
-<img  align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding" height="300px"  width="400px">
+<img  align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding" height="200px"  width="400px">
 Hi 👋, I'm  Prathmesh Bidve<br>A Passionate Full Stack Developer<br><br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about DSA,javascript, WebDevelopment<br>📫 How to reach bidveprathmesh590@gmail.com<br>⚡ Fun fact  I am funny<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-bidve-4658b5253) 
