@@ -23,6 +23,7 @@ Hi 👋, I'm  Prathmesh Bidve<br>A Passionate Full Stack Developer<br><br>🌱 I
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prathmesh0125&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=prathmesh0125&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
