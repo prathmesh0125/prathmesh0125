@@ -16,5 +16,5 @@ Hi 👋, I'm Prathmesh Bidve<br>A Passionate Full Stack Developer<br><br># 💫 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh0125&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+[![](https://visitcount.itsvg.in/api?id=prathmesh0125&icon=1&color=1)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
