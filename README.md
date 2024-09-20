@@ -1,7 +1,7 @@
 
 ![](https://github.com/prathmesh0125/prathmesh0125/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.jpg)
 # 💫 About Me:
-Hi 👋, 👋 Hi there! I’m **Prathmesh Bidve**, a passionate Full Stack Developer dedicated to crafting seamless and dynamic web experiences. 
+Hi 👋 Hi there! I’m **Prathmesh Bidve**, a passionate Full Stack Developer dedicated to crafting seamless and dynamic web experiences. 
 
 🌟 With a love for both frontend and backend technologies, I enjoy transforming ideas into reality through code. Whether it’s building intuitive user interfaces or optimizing server-side performance, I thrive on delivering high-quality solutions.<br><br># 💫 About Me:<br><br>🌱 I’m currently learning full Stack Development<br>💬 Ask me about DSA,javascript, WebDevelopment<br>📫 How to reach bidveprathmesh590@gmail.com<br>⚡ Fun fact I am funny
 
